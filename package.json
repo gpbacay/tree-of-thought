@@ -1,7 +1,7 @@
 {
-  "name": "tree-of-thought",
-  "version": "1.0.0",
-  "description": "Vectorless, reasoning-based document indexing and retrieval. Works standalone without any API keys or external services. Open source.",
+  "name": "graph-of-thought",
+  "version": "1.0.1",
+  "description": "Advanced Graph-of-Thought implementation with BMSSP algorithm for vectorless document indexing and retrieval. Works standalone without API keys or external services. Includes backward-compatible Tree-of-Thought functionality.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -54,12 +54,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gpbacay/tree-of-thought.git"
+    "url": "git+https://github.com/gpbacay/graph-of-thought.git"
   },
   "bugs": {
-    "url": "https://github.com/gpbacay/tree-of-thought/issues"
+    "url": "https://github.com/gpbacay/graph-of-thought/issues"
   },
-  "homepage": "https://github.com/gpbacay/tree-of-thought#readme",
+  "homepage": "https://github.com/gpbacay/graph-of-thought#readme",
   "engines": {
     "node": ">=18.0.0"
   },
